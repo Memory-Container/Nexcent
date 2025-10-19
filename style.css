@@ -793,7 +793,7 @@ header {
 
         .container {
             display: flex;
-            max-width: 1152px;
+            max-width: 1110px;
             width: 98%;
             justify-content: space-between;
             flex-direction: row;
